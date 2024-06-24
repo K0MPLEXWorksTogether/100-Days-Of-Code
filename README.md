@@ -15,3 +15,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **TurtleRace:** A turtle based program that simuates a race between turtles, allowing the user to bet on a particular turtle.
 *Skills Learnt:* Learning how multiple instances, of an object can exist in different states.
+
+<br>
+
+- **SnakeGame:** A turtle based program that creates the famous Nokia 3310 snake game.
+*Skills Learnt:* Understanding inheritance, and list slicing.
