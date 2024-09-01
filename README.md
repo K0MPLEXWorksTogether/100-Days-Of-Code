@@ -20,3 +20,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **SnakeGame:** A turtle based program that creates the famous Nokia 3310 snake game.
 *Skills Learnt:* Understanding inheritance, and list slicing.
+
+<br>
+
+- **ThePongGame:** A turtle based program recreates the famous atari pong game.
+*Skills Learnt:* The fundamentals of game-building, inheritence and constructors in detail.
