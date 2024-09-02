@@ -13,9 +13,9 @@ class Scoreboard(Turtle):
 	
 	def update(self):
 		self.clear()
-		self.goto(-100, 200)
+		self.goto(-100, 175)
 		self.write(self.lscore, align="center", font=("Courier", 60, "normal"))
-		self.goto(100, 200)
+		self.goto(100, 175)
 		self.write(self.rscore, align="center", font=("Courier", 60, "normal"))
 
 	def left_point(self):
