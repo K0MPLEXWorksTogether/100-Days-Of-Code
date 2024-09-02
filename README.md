@@ -25,3 +25,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **ThePongGame:** A turtle based program recreates the famous atari pong game.
 *Skills Learnt:* The fundamentals of game-building, inheritence and constructors in detail.
+
+<br>
+
+- **TurtleCrossing:** A turtle based game that re-creates the famous game "Crossy Road."
+*Skills Learnt:* An advanced approach to breaking-down problems into small pieces, combining these pieces into one working unit.
