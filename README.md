@@ -35,3 +35,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **MailMergingChallenge:** A function that can generate trunk mails for a given list of names.
 *Skills Learnt:* Learnt to handle the basic operations with files in python, the use of the 'with' keyword in accordance with files, and some string and file methods.
+
+<br>
+
+- **USStatesGame:** A game built using turtle and pandas, that allows you to guess all the states of the US.
+*Skills Learnt:* The fundamentals of pandas DataFrames And Series, how to deal with csv files.
