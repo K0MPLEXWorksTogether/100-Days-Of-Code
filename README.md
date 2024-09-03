@@ -30,3 +30,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **TurtleCrossing:** A turtle based game that re-creates the famous game "Crossy Road."
 *Skills Learnt:* An advanced approach to breaking-down problems into small pieces, combining these pieces into one working unit.
+
+<br>
+
+- **MailMergingChallenge:** A function that can generate trunk mails for a given list of names.
+*Skills Learnt:* Learnt to handle the basic operations with files in python, the use of the 'with' keyword in accordance with files, and some string and file methods.
