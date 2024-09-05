@@ -27,10 +27,10 @@ while len(guessed_states) < 50:
 		writer.goto(state_row.x.item(), state_row.y.item())
 		writer.write(guess)
 
-missed_states = []
-for state in us_states:
-	if state not in guessed_states:
-		missed_states.append(state)
+missed_states = [state for state in us_states if state not in guessed_states]
+print("You missed the following states:")
+for state in missed_states:
+	print(state)
 
 missed_data = pandas.Series(missed_states)
 missed_data.to_csv("missed.csv")
