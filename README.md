@@ -40,3 +40,13 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **USStatesGame:** A game built using turtle and pandas, that allows you to guess all the states of the US.
 *Skills Learnt:* The fundamentals of pandas DataFrames And Series, how to deal with csv files.
+
+<br>
+
+- **NATOAlphabet:** A simple application that returns a list of words in NATO Alphabet, when text is entered. Typically used when talking to customer care. 
+*Skills Learnt:* The fundamentals of list and dictionary comprehensions.
+
+<br>
+
+- **MilesToKilometers:** A simple Tkinter based tool that converts miles to kilomters.
+*Skills Learnt:* The basics of tkinter, positioning in tkinter.
