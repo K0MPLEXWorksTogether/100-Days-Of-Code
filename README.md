@@ -50,3 +50,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **MilesToKilometers:** A simple Tkinter based tool that converts miles to kilomters.
 *Skills Learnt:* The basics of tkinter, positioning in tkinter.
+
+<br>
+
+- **PomodoroApp:** A Tkinter GUI tool used for following the pomodoro technique.
+*Skills Learnt:* The Tkinter canvas, some window methods.
