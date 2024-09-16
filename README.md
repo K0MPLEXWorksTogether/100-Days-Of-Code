@@ -55,3 +55,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **PomodoroApp:** A Tkinter GUI tool used for following the pomodoro technique.
 *Skills Learnt:* The Tkinter canvas, some window methods.
+
+<br>
+
+- **PasswordManager:** A Tkinter GUI tool that manages user passwords locally.
+*Skills Learnt:* DialogBoxes And Prompts using Tkinter, Code Optimization.
