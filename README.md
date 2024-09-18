@@ -60,3 +60,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **PasswordManager:** A Tkinter GUI tool that manages user passwords locally.
 *Skills Learnt:* DialogBoxes And Prompts using Tkinter, Code Optimization.
+
+<br>
+
+- **FlashCardApp:** A Tkinter GUI tool to generate flash cards.
+*Skills Learnt:* Object-Oriented Design, Working with pandas.
