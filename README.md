@@ -65,3 +65,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **FlashCardApp:** A Tkinter GUI tool to generate flash cards.
 *Skills Learnt:* Object-Oriented Design, Working with pandas.
+
+<br>
+
+- **BirthdayWisher:** A automatic birthday wisher, built using smptlib.
+*Skills Learnt:* Working with Simple Mail Transfer Protocol (SMTP) using python.
