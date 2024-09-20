@@ -3,8 +3,8 @@ import requests
 import smtplib
 import time
 
-MY_LAT = float("Enter Your Target Latitude: ")
-MY_LONG = float("Enter Your Target Longitude: ")
+MY_LAT = float(input("Enter Your Target Latitude: "))
+MY_LONG = float(input("Enter Your Target Longitude: "))
 THRESHOLD_LAT = (MY_LAT - 5, MY_LAT + 5)
 THRESHOLD_LONG = (MY_LONG - 5, MY_LONG + 5)
 MY_EMAIL = input("Enter Your Email: ")
