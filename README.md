@@ -75,3 +75,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **ISSOverheadNotifier:** A cron job that mails you when the ISS is near your co-ordinates.
 *Skills Learnt:* Working with API parameters and endpoints, writing and deploying cron jobs.
+
+<br>
+
+- **Quizzler:** A Quiz App using Tkinter, that generates a trivia, using the open trivia database API.
+*Skills Learnt:* Modularity using OOP, Re-using written classes, Basics of APIs.
