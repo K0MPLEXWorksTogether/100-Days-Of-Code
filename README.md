@@ -80,3 +80,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **Quizzler:** A Quiz App using Tkinter, that generates a trivia, using the open trivia database API.
 *Skills Learnt:* Modularity using OOP, Re-using written classes, Basics of APIs.
+
+<br>
+
+- **WeatherSMS:** A Automated SMS Sender, that sends an SMS if it is going to rain today.
+*Skills Learnt:* Basics Of API Auth, How to automatically send SMS, Environment Variables.
