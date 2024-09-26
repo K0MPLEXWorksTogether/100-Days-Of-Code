@@ -83,5 +83,10 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 <br>
 
-- **WeatherSMS:** A Automated SMS Sender, that sends an SMS if it is going to rain today.
+- **WeatherSMS:** An Automated SMS Sender, that sends an SMS if it is going to rain today.
 *Skills Learnt:* Basics Of API Auth, How to automatically send SMS, Environment Variables.
+
+<br>
+
+- **StockNews:** An Automated SMS Sender, but this time for news in case of a 5% fluctuation in the price of the mentioned stock.
+*Skills Learnt:* Advanced API Auth, Handling multiple API's.
