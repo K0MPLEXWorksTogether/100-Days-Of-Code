@@ -95,3 +95,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **WorkoutTracker:** Built a workout tracker, that calls an NLP based text-processor and logs the results in your google sheets.
 *Skills Learnt:* Authorization using token bearers, Basics of NLP and text-processing.
+
+<br>
+
+**HabitTracker:** ***Not Completed*** Built utilities for a habit tracking mechanism, similar to the commit chart on github, using the Pixela API. This project will contain properly documented utilities for every API provided by pixela. Help is appreciated!
+*Skills Learnt:* Authorization using headers, POST, DELETE and PUT HTTPS requests. 
