@@ -90,3 +90,8 @@ Here's a small summary of all the folders, and the project that has been impleme
 
 - **StockNews:** An Automated SMS Sender, but this time for news in case of a 5% fluctuation in the price of the mentioned stock.
 *Skills Learnt:* Advanced API Auth, Handling multiple API's.
+
+<br>
+
+- **WorkoutTracker:** Built a workout tracker, that calls an NLP based text-processor and logs the results in your google sheets.
+*Skills Learnt:* Authorization using token bearers, Basics of NLP and text-processing.
